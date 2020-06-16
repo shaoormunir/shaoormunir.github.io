@@ -1,1 +1,11 @@
-theme: jekyll-theme-minimal
+remote_theme: thelehhman/plainwhite-jekyll
+
+plainwhite:
+  name: Shaoor Munir
+  tagline: Developer
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter: Shaoor_Munir
+    github: shaoormunir
+    linkedIn: pk/shaoormunir
