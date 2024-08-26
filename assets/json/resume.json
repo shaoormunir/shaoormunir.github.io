@@ -1,200 +1,303 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Shaoor Munir",
+    "label": "4th Year Ph.D. Student in Computer Science (Machine Learning, Privacy, Technology Policy)",
+    "email": "smunir@ucdavis.edu",
+    "phone": "+1 (530) 953-3757",
+    "url": "https://shaoormunir.com",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Davis",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "shaoormunir",
+        "url": "https://linkedin.com/in/shaoormunir"
+      },
+      {
+        "network": "GitHub",
+        "username": "shaoormunir",
+        "url": "https://github.com/shaoormunir"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of California, Davis",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Doctor of Philosophy",
+      "startDate": "2021-09-13",
+      "endDate": "Present",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "National University of Computer and Emerging Sciences",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2014-08",
+      "endDate": "2018-05",
+      "score": "",
+      "courses": []
     }
   ],
-  "awards": [
+  "work": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "name": "University of California, Davis",
+      "position": "Graduate Student Researcher",
+      "url": "",
+      "startDate": "2021-09",
+      "endDate": "Present",
+      "summary": "Research to evaluate existing privacy-preserving technologies and development of new techniques to counter advancements in online tracking.",
+      "highlights": [
+        "Analysis of existing technology policies and how they impact online privacy"
+      ]
+    },
+    {
+      "name": "ID Privacy, Inc.",
+      "position": "Lead Data Scientist",
+      "url": "",
+      "startDate": "2024-04",
+      "endDate": "Present",
+      "summary": "Creating privacy-preserving solutions for advertising use cases.",
+      "highlights": [
+        "Worked on an internal RAG (Retrieval Augmented Generation) tool to keep track of evolving documentation for privacy standards"
+      ]
+    },
+    {
+      "name": "Lahore University of Management Sciences",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2019-11",
+      "endDate": "2021-08",
+      "summary": "Worked in collaboration with academics from The University of Iowa and UC Davis to explore state of the art in Natural Language Generation and Natural Language Understanding.",
+      "highlights": [
+        "Worked on exploring automated methods to attribute a synthetic text to its source language model",
+        "Collaborated with external and internal resources to work on projects related to news event detection and Urdu language text corpus"
+      ]
+    },
+    {
+      "name": "Northbay Solutions",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2019-04",
+      "endDate": "2019-11",
+      "summary": "Worked on an internal Big Data Research Project making use of Kylo, Nifi, Apache Spark, and Amazon Web Services to create an end-to-end Data Orchestration and Transformation tool for organizations dealing with large amounts of unstructured data.",
+      "highlights": [
+        "Worked as part of a team designing core framework with Java API endpoints for Data Lake management in Amazon Web Services"
+      ]
+    },
+    {
+      "name": "Systems Limited",
+      "position": "Associate Software Engineer",
+      "url": "",
+      "startDate": "2018-07",
+      "endDate": "2018-09",
+      "summary": "Worked as a trainee in the Machine learning and Data Science team.",
+      "highlights": [
+        "Worked on an R&D project for an American bank, making use of Random Forests, SVM, Word2Vec, Doc2Vec to automatically categorize banking forms and extract useful data"
+      ]
+    },
+    {
+      "name": "TechJuice",
+      "position": "Editor",
+      "url": "",
+      "startDate": "2018-10",
+      "endDate": "2019-04",
+      "summary": "Managed a writer panel consisting of 15 writers, spread across Lahore, Islamabad, and Karachi.",
+      "highlights": [
+        "Worked towards improving the editorial quality, hired and trained new writers to expand the existing team"
+      ]
+    },
+    {
+      "name": "TechJuice",
+      "position": "Content Writer",
+      "url": "",
+      "startDate": "2016-11",
+      "endDate": "2018-04",
+      "summary": "Wrote and published more than 450 articles with one of the largest technology media organizations in Pakistan.",
+      "highlights": [
+        "Organized, managed, and carried out interviews for TechJuice 25 under 25 2017 and 2018 editions"
+      ]
     }
   ],
-  "certificates": [
+  "ongoingResearch": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "From Wires to Webs: Are Online Trackers Wiretapping Web Browsers?",
+      "description": "Mapping elements of wiretapping laws to technical mechanisms deployed by online trackers.",
+      "highlights": [
+        "Conducting deep investigation of common wiretappers to understand their modus operandi",
+        "Performing large scale measurement to determine the prevalence of wiretapping on a sample of top websites"
+      ]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "FP-Inconsistent: Detecting Evasive Bots using Browser Fingerprint Inconsistencies",
+      "description": "Large scale analysis of bots that evade commercial bot detection services.",
+      "highlights": [
+        "Application of adversarial machine learning approach to evade commercial bot detection services",
+        "Analysis of inconsistencies in bot fingerprints to propose enhanced detection by these services"
+      ]
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "PURL: Safe and Effective Sanitization of Link Decoration",
+      "publisher": "33rd USENIX Security Symposium",
+      "releaseDate": "2024",
+      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/munir",
+      "summary": "Analysis of the use of link decorations for tracking purposes in the face of third-party cookie blockage."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Blocking Tracking JavaScript at the Function Granularity",
+      "publisher": "CCS 2024",
+      "releaseDate": "To be announced",
+      "url": "https://arxiv.org/abs/2405.18385",
+      "summary": "Analysis and detection of mixed JavaScript code (scripts including both tracking and functional resources)."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Google’s Chrome Antitrust Paradox",
+      "publisher": "Vanderbilt JETLaw",
+      "releaseDate": "To be announced",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780718",
+      "summary": "Research to evaluate the influence of major tech companies on privacy policies."
+    },
+    {
+      "name": "COOKIEGRAPH: Understanding and Detecting First-Party Tracking Cookies",
+      "publisher": "ACM CCS 2023",
+      "releaseDate": "2023",
+      "url": "https://dl.acm.org/doi/10.1145/3576915.3616586",
+      "summary": "Research on how third-party scripts running in a first-party context can misuse this privilege and track users across different sites."
+    },
+    {
+      "name": "Through the Looking Glass: Learning to Attribute Synthetic Text",
+      "publisher": "EACL 2021",
+      "releaseDate": "2021",
+      "url": "https://aclanthology.org/2021.eacl-main.155/",
+      "summary": "Analysis of different classification techniques to learn how to attribute text generated by a language model."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Makhzan (Urdu Text Corpus)",
+      "highlights": [
+        "Helped build an open-source standardized Urdu Text corpus to help advance Natural Language Processing in Urdu language."
+      ],
+      "url": "https://matnsaz.net/en/makhzan"
+    },
+    {
+      "name": "Writeprints (Python Package)",
+      "description": "A Python library to extract features from text for use in fingerprinting text to train attributors.",
+      "url": "https://github.com/shaoormunir/writeprints",
+      "highlights": [
+        "Used in the Through the Looking Glass paper"
+      ]
+    },
+    {
+      "name": "K2 | Java, AWS (Data Lake Solution)",
+      "highlights": [
+        "Helped develop an end-to-end Data Lake solution with a plug-and-play Java API for end users."
+      ],
+      "url": ""
+    },
+    {
+      "name": "Intelligent Mock Interviewer | Python, Django, OpenCV",
+      "highlights": [
+        "An intelligent interviewer using OpenCV, SVMs, and Neural Networks to analyze an interview's audio and video to judge the interviewee's personality."
+      ],
+      "url": "https://github.com/shaoormunir/intelligent-mock-interviewer"
+    }
+  ],
+  "talksAndMediaCoverage": [
+    {
+      "name": "ProMarket",
+      "description": "Covered my research on the use of Chrome by Google to engage in anti-competitive behavior.",
+      "url": "https://www.promarket.org/2024/08/08/chrome-is-the-forgotten-fulcrum-of-googles-dominance/"
+    },
+    {
+      "name": "IMDEA Networks",
+      "description": "Presented a talk on safeguarding user data from storage and exfiltration by trackers.",
+      "url": "https://networks.imdea.org/whatsnew/events-agenda/beyond-third-party-cookies-safeguarding-user-data-from-storage-and-exfiltration-with-cookiegraph-and-purl/"
+    },
+    {
+      "name": "The Register",
+      "description": "Covered my research on online tracking through link decoration and detection of these link decorations.",
+      "url": "https://www.theregister.com/2023/10/06/link_tracking_privacy/"
+    },
+    {
+      "name": "Ad-Filtering Dev Summit 2023",
+      "description": "Presented work on automatically detecting tracking link decorations.",
+      "url": ""
+    },
+    {
+      "name": "DataSkeptic Podcast",
+      "description": "Discussed first-party cookie-based tracking and countermeasures.",
+      "url": "https://dataskeptic.com/blog/episodes/2022/first-party-tracking-cookies"
+    },
+    {
+      "name": "Ad-Filtering Dev Summit 2022",
+      "description": "Presented an overview of the COOKIEGRAPH paper.",
+      "url": "https://www.youtube.com/watch?v=gRDmyoM2A0Y"
+    },
+    {
+      "name": "EACL 2021",
+      "description": "Presentation on attribution of text generated by language models.",
+      "url": "https://www.virtual2021.eacl.org/paper_main.753.html"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming Languages",
+      "level": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "C/C++",
+        "Java"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Machine Learning",
+      "level": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Machine Learning models",
+        "AI algorithms",
+        "Data Science libraries"
+      ]
+    },
+    {
+      "name": "Cloud Services",
+      "level": "",
+      "keywords": [
+        "Amazon Web Services",
+        "Google Cloud"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Zubair Shafiq",
+      "reference": "Associate Professor of Computer Science, University of California, Davis",
+      "email": "zubair@ucdavis.edu"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "name": "Fareed Zaffar",
+      "reference": "Associate Professor of Computer Science, Lahore University of Management Sciences",
+      "email": "fareed.zaffar@lums.edu.pk"
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Carmela Troncoso",
+      "reference": "Tenure Track Assistant Professor, EPFL",
+      "email": "carmela.troncoso@epfl.ch"
+    },
+    {
+      "name": "Sandra Siby",
+      "reference": "Tenure Track Assistant Professor, New York University, Abu Dhabi",
+      "email": "s.siby@imperial.ac.uk"
     }
   ]
 }

@@ -1,9 +1,19 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ACM CCS":
+  url: https://dl.acm.org/conference/ccs
+  color: "#a0501b"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"JetLaw":
+  url: https://www.vanderbilt.edu/jetlaw/
+  color: "#d8ab4c"
 
-"Vision":
-  color: "#009f36"
+"USENIX Security":
+  url: https://www.usenix.org/conference/usenixsecurity24
+  color: "#8f1d05"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"EACL":
+  url: https://eacl.org
+  color: "#ed1e24"
